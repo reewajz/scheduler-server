@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log
+package-lock.json
+service-account-key.json
+.vscode/
+scheduling74-firebase-adminsdk.json
+scheduledatabase-firebase-adminsdk.json
+nodemon.json
